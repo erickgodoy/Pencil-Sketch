@@ -1,3 +1,3 @@
 ## Pencil Sketch 
 
-![result](images/readme_img.PNG)
+![result](images/readme_img.png)
